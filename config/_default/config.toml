@@ -1,4 +1,4 @@
 baseURL = "https://nxxh.pages.dev/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "zh-hans"
+title = "NxxH"
 theme = "DoIt"
